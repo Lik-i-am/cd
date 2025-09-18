@@ -20,4 +20,8 @@ app.get('/lodash-example', (req, res) => {
 // Start the web server
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 18651bd98d69033f8e31b04bf1cb592c1ec66145
